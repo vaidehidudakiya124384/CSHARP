@@ -1,0 +1,7 @@
+D:\Vaidehi\BCA4A\UNIT3\Program12\bin\Debug\Program12.exe.config
+D:\Vaidehi\BCA4A\UNIT3\Program12\bin\Debug\Program12.exe
+D:\Vaidehi\BCA4A\UNIT3\Program12\bin\Debug\Program12.pdb
+D:\Vaidehi\BCA4A\UNIT3\Program12\obj\Debug\Program12.csproj.AssemblyReference.cache
+D:\Vaidehi\BCA4A\UNIT3\Program12\obj\Debug\Program12.csproj.CoreCompileInputs.cache
+D:\Vaidehi\BCA4A\UNIT3\Program12\obj\Debug\Program12.exe
+D:\Vaidehi\BCA4A\UNIT3\Program12\obj\Debug\Program12.pdb
