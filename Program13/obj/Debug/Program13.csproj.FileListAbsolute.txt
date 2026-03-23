@@ -1,0 +1,7 @@
+C:\Vaidehi\College\CSHARP\UNIT3\Program13\bin\Debug\Program13.exe.config
+C:\Vaidehi\College\CSHARP\UNIT3\Program13\bin\Debug\Program13.exe
+C:\Vaidehi\College\CSHARP\UNIT3\Program13\bin\Debug\Program13.pdb
+C:\Vaidehi\College\CSHARP\UNIT3\Program13\obj\Debug\Program13.csproj.AssemblyReference.cache
+C:\Vaidehi\College\CSHARP\UNIT3\Program13\obj\Debug\Program13.csproj.CoreCompileInputs.cache
+C:\Vaidehi\College\CSHARP\UNIT3\Program13\obj\Debug\Program13.exe
+C:\Vaidehi\College\CSHARP\UNIT3\Program13\obj\Debug\Program13.pdb
