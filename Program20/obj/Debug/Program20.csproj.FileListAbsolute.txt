@@ -1,0 +1,7 @@
+D:\Vaidehi\College\CSHARP\UNIT4\Program20\obj\Debug\Program20.csproj.AssemblyReference.cache
+D:\Vaidehi\College\CSHARP\UNIT4\Program20\obj\Debug\Program20.csproj.CoreCompileInputs.cache
+D:\Vaidehi\College\CSHARP\UNIT4\Program20\bin\Debug\Program20.exe.config
+D:\Vaidehi\College\CSHARP\UNIT4\Program20\bin\Debug\Program20.exe
+D:\Vaidehi\College\CSHARP\UNIT4\Program20\bin\Debug\Program20.pdb
+D:\Vaidehi\College\CSHARP\UNIT4\Program20\obj\Debug\Program20.exe
+D:\Vaidehi\College\CSHARP\UNIT4\Program20\obj\Debug\Program20.pdb
